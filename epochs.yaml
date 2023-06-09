@@ -1,0 +1,11 @@
+epochs:
+  0:
+    cid: bafyreiagdtlc3xwhbeywzpwmxvwkogcujhlsm6f4cfdgpjpyu77gkubro4
+    indexes:
+      slot_to_cid: /path/to/slot-to-cid.index
+      sig_to_cid: /path/to/sig-to-cid.index
+  444:
+    cid: bafyreiagdtlc3xwhbeywzpwmxvwkogcujhlsm6f4cfdgpjpyu77gkubro4
+    indexes:
+      slot_to_cid: /path/to/slot-to-cid.index
+      sig_to_cid: /path/to/sig-to-cid.index
